@@ -4,7 +4,7 @@
 
 - Write clean code
 - Work on projects used by millions
-- Study new languages & technologies
+- Learn new languages & technologies
 - Work with interesting people
 - Visit all countries
 
