@@ -1,13 +1,5 @@
 ### Hi! My name is Aleksei, i'm a front-end developer 👋
 
-### My purposes:
-
-- Write clean code
-- Work on projects used by millions
-- Learn new languages & technologies
-- Work with interesting people
-- Visit all countries
-
 ### Technologies:
 
 <p>
