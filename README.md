@@ -1,4 +1,4 @@
-### Hi! My name is Aleksei, i'm a front-end developer 👋
+### Hi! My name is Aleksei, i'm a frontend developer 👋
 
 ### Technologies:
 
