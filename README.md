@@ -19,7 +19,7 @@
 <br />
 
 ### Statistic:
-[![Codewarrior Profile Badges]((https://www.codewars.com/users/Aleksei%20Makhov/badges/large))](https://www.codewars.com/users/Aleksei%20Makhov)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Aleksei%20Makhov/badges/large)](https://www.codewars.com/users/Aleksei%20Makhov)
 
 
 <div>
